@@ -1,7 +1,9 @@
 :imagesdir: images
 
 :figure-caption:figura
-:toc: Súmario
+
+:toc: left
+:toc-title: Sumário
 
 = Começando um arquivo novo  
 
