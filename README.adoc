@@ -48,4 +48,4 @@ image:horizontal-scaling-small.gif[]
 
 == Videos
 
-video::4iIcCLaEcq0[youtube]
+video::4iIcCLaEcq0[youtube, width=640, height=480]
