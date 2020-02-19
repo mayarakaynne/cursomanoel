@@ -79,3 +79,7 @@ include::Quadrado.java[]
 ----
 include::Teclado.java[tag=main]
 ----
+
+== Outras Páginas
+
+link:comandos[]
