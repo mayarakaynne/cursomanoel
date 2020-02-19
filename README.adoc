@@ -53,3 +53,29 @@ image:horizontal-scaling-small.gif[]
 == Videos
 
 video::4iIcCLaEcq0[youtube, width=640, height=480]
+
+== Código Fonte
+
+[source, java]
+
+----
+public void funcao(){
+
+System.out.println("Olá");
+
+}
+----
+
+[source, java]
+
+----
+include::Quadrado.java[]
+----
+
+.Capturando dados do teclado
+
+[source, java]
+
+----
+include::Teclado.java[tag=main]
+----
