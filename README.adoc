@@ -44,3 +44,8 @@
 .Evolução dos homens e das maquinas
 image:thread-selectors.png[link=http://google.com]
 
+image:horizontal-scaling-small.gif[]
+
+== Videos
+
+video::4iIcCLaEcq0[youtube]
