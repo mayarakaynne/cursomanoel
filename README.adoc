@@ -3,12 +3,14 @@
 :figure-caption:figura
 
 :toc: left
+
 :toc-title: Sumário
 
 = Começando um arquivo novo  
 
 == Curso AsciiDoc
-=== por Manoel Campos
+=== por Manoel Campos        
+
 
 - Alunos
  * Mayara
