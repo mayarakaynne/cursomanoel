@@ -3,7 +3,6 @@
 :figure-caption:figura
 
 :toc: left
-
 :toc-title: Sumário
 
 = Começando um arquivo novo  
